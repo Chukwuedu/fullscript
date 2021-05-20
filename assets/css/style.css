@@ -577,6 +577,9 @@ section {
   margin: 0;	
 }
 
+.staff img[alt='orange']{
+  border:2px solid #F1B243;
+}
 .staff .containerholder{
 	border:2px solid #e7e7e9;
 	border-radius:10px;
