@@ -142,11 +142,10 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 @media (max-width: 992px) {
-  #header .logo img {
-    height: 20px !important;
-  }
+#header .logo img {
+  max-height: 25px !important;
 }
-
+}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
